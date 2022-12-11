@@ -1,5 +1,5 @@
 # News-Headline-Generator
-A news headline generator finetuned on T5-base.
+A news headline generator finetuned on T5-base, coded in pytorch lightning.
 
 Trained checkpoint: [best-checkpoint.ckpt](https://drive.google.com/file/d/1nded-6tGeY__W6HcUWwaYDpNW1jOwJ4D/view?usp=sharing)
 
